@@ -14,7 +14,7 @@ SLOT="0"
 REQUIRED_USE="${PYTHON_REQUIRED_USE}"
 RDEPEND="
 ${PYTHON_DEPS}
-dev-db/postgresql:*
+dev-db/postgresql:*[python]
 dev-lang/python[$PYTHON_USEDEP]
 dev-python/icalendar
 dev-python/parse
