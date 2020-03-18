@@ -1,4 +1,4 @@
-# Copyright 1999-2019 Gentoo Authors
+# Copyright 1999-2020 Gentoo Authors
 # Distributed under the terms of the GNU General Public License v2
 
 EAPI=7
@@ -13,16 +13,12 @@ SLOT="0"
 
 REQUIRED_USE="${PYTHON_REQUIRED_USE}"
 RDEPEND="
-${PYTHON_DEPS}
-dev-db/postgresql:*[python uuid]
-dev-lang/python[$PYTHON_USEDEP]
+dev-db/postgresql[python,uuid]
+dev-lang/python
 dev-python/icalendar
 dev-python/parse
 dev-python/psycopg
 dev-python/vdirsyncer
-"
-RDEPEND="
-${PYTHON_DEPS}
 "
 
 src_install() {
