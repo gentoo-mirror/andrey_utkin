@@ -18,6 +18,8 @@ dev-lang/python
 dev-python/icalendar
 dev-python/psycopg
 dev-python/vdirsyncer
+dev-vcs/git
+media-gfx/graphviz
 "
 
 src_install() {
