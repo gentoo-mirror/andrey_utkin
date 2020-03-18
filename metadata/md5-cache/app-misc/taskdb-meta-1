@@ -1,0 +1,8 @@
+DEFINED_PHASES=-
+DESCRIPTION=Pulls optional dependencies of app-misc/taskdb
+EAPI=7
+HOMEPAGE=https://github.com/andrey-utkin/taskdb
+KEYWORDS=~amd64
+RDEPEND=app-misc/taskdb www-apps/grafana-bin
+SLOT=0
+_md5_=72d9662e3a90f8022509369d6817ed57

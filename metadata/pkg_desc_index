@@ -1,1 +1,2 @@
 app-misc/taskdb 9999: Personal task and time management system
+app-misc/taskdb-meta 1: Pulls optional dependencies of app-misc/taskdb
