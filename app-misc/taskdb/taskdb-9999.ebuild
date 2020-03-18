@@ -16,7 +16,6 @@ RDEPEND="
 dev-db/postgresql[python,uuid]
 dev-lang/python
 dev-python/icalendar
-dev-python/parse
 dev-python/psycopg
 dev-python/vdirsyncer
 "
