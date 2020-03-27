@@ -17,6 +17,7 @@ dev-db/postgresql[python,uuid]
 dev-lang/python
 dev-python/icalendar
 dev-python/psycopg
+dev-python/python-dateutil
 dev-python/vdirsyncer
 dev-vcs/git
 media-gfx/graphviz
