@@ -13,6 +13,7 @@ SLOT="0"
 
 REQUIRED_USE="${PYTHON_REQUIRED_USE}"
 RDEPEND="
+app-misc/khal
 dev-db/postgresql[python,uuid]
 dev-lang/python
 dev-python/icalendar
