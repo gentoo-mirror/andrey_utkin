@@ -29,4 +29,5 @@ src_install() {
 
 	insinto "/usr/share/taskdb-$PV"
 	doins -r share/*
+	dodoc -r doc/*
 }
