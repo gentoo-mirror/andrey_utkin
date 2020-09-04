@@ -2,7 +2,7 @@
 # Distributed under the terms of the GNU General Public License v2
 
 EAPI=7
-PYTHON_COMPAT=( python3_6 )
+PYTHON_COMPAT=( python3_6 python3_7 python3_8 python3_9 )
 inherit git-r3 python-single-r1
 DESCRIPTION="Personal task and time management system"
 HOMEPAGE="https://github.com/andrey-utkin/taskdb"
