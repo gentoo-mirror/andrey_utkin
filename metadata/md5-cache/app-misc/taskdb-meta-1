@@ -1,8 +1,8 @@
 DEFINED_PHASES=-
-DESCRIPTION=Pulls optional dependencies of app-misc/taskdb
+DESCRIPTION=Dependencies of dedicated VM experience for app-misc/taskdb
 EAPI=7
 HOMEPAGE=https://github.com/andrey-utkin/taskdb
 KEYWORDS=~amd64
-RDEPEND=app-misc/taskdb www-apps/grafana-bin
+RDEPEND=app-admin/pass app-editors/vim app-misc/taskdb dev-db/pgadmin4 net-firewall/nftables net-vpn/wireguard-tools www-apps/grafana-bin
 SLOT=0
-_md5_=72d9662e3a90f8022509369d6817ed57
+_md5_=545e5d12e5858e367b1d27a2edbb1efd
