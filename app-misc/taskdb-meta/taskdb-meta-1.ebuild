@@ -16,6 +16,7 @@ app-admin/logrotate
 app-admin/pass
 app-admin/syslog-ng
 app-editors/vim
+app-emulation/qemu-guest-agent
 app-misc/taskdb
 app-misc/tmux
 app-portage/gentoolkit
