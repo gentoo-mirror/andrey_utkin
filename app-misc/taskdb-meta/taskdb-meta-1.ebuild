@@ -21,6 +21,7 @@ app-misc/taskdb
 app-misc/tmux
 app-portage/gentoolkit
 dev-db/pgadmin4
+mail-mta/nullmailer
 net-firewall/nftables
 net-misc/chrony
 net-vpn/wireguard-tools
@@ -29,6 +30,7 @@ sys-fs/ncdu
 sys-kernel/gentoo-kernel-bin
 sys-process/cronie
 sys-process/htop
+virtual/mta
 www-apps/grafana-bin
-www-servers/nginx
+www-servers/nginx[nginx_modules_http_fancyindex]
 "
