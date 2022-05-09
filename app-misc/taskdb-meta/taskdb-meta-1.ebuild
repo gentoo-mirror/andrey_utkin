@@ -25,6 +25,7 @@ mail-mta/nullmailer
 net-firewall/nftables
 net-misc/chrony
 net-vpn/wireguard-tools
+sys-apps/moreutils
 sys-boot/grub
 sys-fs/ncdu
 sys-kernel/gentoo-kernel-bin
